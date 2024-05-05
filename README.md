@@ -1,2 +1,2 @@
-# woodenplanks
-JavaMod
+# Мод на цветные доски
+Простой мод, который я делал для изучения Java и Minecraft
